@@ -1,31 +1,27 @@
 # HackerRank Problem Solving scripts in PHP
 
-## Compare the Triplet
+## Compare the Triplet `10.00` points
 
 ```php
 // Complete the compareTriplets function below.
 function compareTriplets($a, $b) {
+    $aliceScore = 0;
+    $bobScore = 0;
     for ($i = 0; $i < count($a); $i++) {
-        $aliceScore = 0;
-        $bobScore = 0;
-        $final = $a[$i] - $b[$i];
-        Switch ($final) {
-            case ($final > 0):
-                $aliceScore += 1;
-                break;
-            case ($final < 0):
-                $bobScore += 1;
-                break;
-            case ($final == 0):
-                break;
+        if ($a[$i] == $b[$i]) {
+            continue;
+        } elseif ($a[$i] > $b[$i]) {
+            $aliceScore += 1;
+        } else {
+            $bobScore += 1;
         }
-        return [$aliceScore, $bobScore];
     }
+    return [$aliceScore, $bobScore];
 }
 
 ```
 
-## Simple Array Sum `10.00 points`
+## Simple Array Sum `10.00` points
 
 ```php
 /*

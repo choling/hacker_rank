@@ -1,5 +1,6 @@
 <?php
 
+// Complete the compareTriplets function below.
 function compareTriplets($a, $b) {
     $aliceScore = 0;
     $bobScore = 0;

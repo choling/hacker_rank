@@ -1,5 +1,7 @@
 # HackerRank Problem Solving scripts in PHP
 
+## StairCase `10.00` points
+
 ## Plus Minus `10.00` points
 
 ## Diagonal Difference `10.00` points

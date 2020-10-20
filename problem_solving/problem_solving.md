@@ -1,5 +1,7 @@
 # HackerRank Problem Solving scripts in PHP
 
+## Diagonal Difference `10.00` points
+
 ## Big Array Sum `10.00` points
 
 ## Compare the Triplet `10.00` points

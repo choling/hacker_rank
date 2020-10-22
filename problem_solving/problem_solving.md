@@ -1,5 +1,7 @@
 # HackerRank Problem Solving scripts in PHP
 
+## Mini-Max Sum `10.00` points
+
 ## StairCase `10.00` points
 
 ## Plus Minus `10.00` points

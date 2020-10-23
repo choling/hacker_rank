@@ -1,8 +1,5 @@
-# HackerRank Problem Solving scripts in PHP
+<?php
 
-## Compare the Triplet `10.00` points
-
-```php
 // Complete the compareTriplets function below.
 function compareTriplets($a, $b) {
     $aliceScore = 0;
@@ -18,23 +15,3 @@ function compareTriplets($a, $b) {
     }
     return [$aliceScore, $bobScore];
 }
-
-```
-
-## Simple Array Sum `10.00` points
-
-```php
-/*
- * Complete the simpleArraySum function below.
- */
-function simpleArraySum($ar) {
-    /*
-     * Write your code here.
-     */
-    $sum = 0;
-    for( $i = 0; $i < count($ar); $i++){
-        $sum+=$ar[$i];
-    }
-    return $sum;
-}
-```

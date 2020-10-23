@@ -1,5 +1,7 @@
 # HackerRank Problem Solving scripts in PHP
 
+## Birthday-Cake-Candles `10.00` points
+
 ## Mini-Max Sum `10.00` points
 
 ## StairCase `10.00` points
@@ -13,4 +15,3 @@
 ## Compare the Triplet `10.00` points
 
 ## Simple Array Sum `10.00` points
-

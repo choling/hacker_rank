@@ -1,17 +1,14 @@
 # HackerRank Problem Solving scripts in PHP
 
-## Birthday-Cake-Candles `10.00` points
+To practice `PHP` code. `JavaScript` and `Python` will be the next move.
 
-## Mini-Max Sum `10.00` points
-
-## StairCase `10.00` points
-
-## Plus Minus `10.00` points
-
-## Diagonal Difference `10.00` points
-
-## Big Array Sum `10.00` points
-
-## Compare the Triplet `10.00` points
-
-## Simple Array Sum `10.00` points
+|   | Problem | Points | php | python | JavaScript |
+|---|---|---|---|---|---|
+| 8 | Birthday-Cake-Candles | `10.00` | - [ ] | - [ ] | - [ ] |
+| 7 | Mini-Max Sum | `10.00` |
+| 6 | StairCase | `10.00` |
+| 5 | Plus Minus | `10.00` |
+| 4 | Diagonal Difference | `10.00` |
+| 3 | Big Array Sum | `10.00` |
+| 2 | Compare the Triplet | `10.00` |
+| 1 | Simple Array Sum | `10.00` |

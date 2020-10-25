@@ -1,4 +1,4 @@
-# HackerRank Problem Solving scripts in PHP
+# HackerRank Problem Solving
 
 To practice `PHP` code. `JavaScript` and `Python` will be the next move.
 

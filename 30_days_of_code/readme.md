@@ -5,6 +5,7 @@ You will need to use the same (or similar) syntax to read input and write output
 
 | Day | Challange | Score | php | python | JavaScript |
 |---|---|---|---|---|---|
+| 8 | Dictionaries and maps | `score=30` | :heavy_check_mark: | | |
 | 7 | Array | `score=30` | :heavy_check_mark: | | |
 | 6 | Lets review | `score=30` | :heavy_check_mark: | | |
 | 5 | Loops | `score=30` | :heavy_check_mark: | | |

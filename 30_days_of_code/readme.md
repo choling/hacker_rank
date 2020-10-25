@@ -2,20 +2,14 @@
 
 In this challenge, we review some basic concepts that will get you started with this series.
 You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank.
-Check out the [Tutorial tab](https://www.hackerrank.com/challenges/30-hello-world/tutorial) for learning materials and an instructional video!
 
-## Day 7: Array `score=30`
-
-## Day 6: Lets review `score=30`
-
-## Day 5: Loops `score=30`
-
-## Day 4: Class vs Instance `score=30`
-
-## Day 3: Conditional Statements `score=30`
-
-## Day 2: Operators `sore=30`
-
-## Day 1: Data Types `score=30`
-
-## Day 0: Hello, World `score=30`
+| Day | Challange | Score | php | python | JavaScript |
+|---|---|---|---|---|---|
+| 7 | Array | `score=30` | :heavy_check_mark: | | |
+| 6 | Lets review | `score=30` | :heavy_check_mark: | | |
+| 5 | Loops | `score=30` | :heavy_check_mark: | | |
+| 4 | Class vs Instance | `score=30` | :heavy_check_mark: | | |
+| 3 | Conditional Statements | `score=30` | :heavy_check_mark: | | |
+| 2 | Operators | `sore=30` | :heavy_check_mark: | | |
+| 1 | Data Types | `score=30` | :heavy_check_mark: | | |
+| 0 | Hello, World | `score=30` | :heavy_check_mark: | | |

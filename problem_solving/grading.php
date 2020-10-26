@@ -9,20 +9,28 @@
 
 function gradingStudents($grades) {
     // Write your code here
-    $residue = $grades % 5;
-    $nextMultiple = $grades + (5 - $residue);
-    $diff = $nextMultiple - $grades;
-    if ($grades > 40 ) {
-        if ( $diff < 3) {
-            return $nextMultiple;
-        } else {
-            return $grades;
+    for ($i=0;$i <= sizeof($grades); $i++){
+        if ($grades[$i] >= 38){
+            if ($grades[$i] % 5 == 3){
+                $grades[$i] += 2;
+            } elseif ($grades[$i] % 5 == 4) {
+                $grades[$i] += 1;
+            }
         }
-    } else {
-        return $grades;
     }
-
+    return $grades;
 }
+    // Testing code
+    //     $residue = $grades[$i] % 5;
+    //     $nextMultiple = $grades[$i] + (5 - $residue);
+    //     $diff = $nextMultiple - $grades[$i];
+    //     if ($nextMultiple < 40 || $diff === 3 || $diff > 3) {
+    //         return $grades[$i];
+    //     } 
+
+    //     return $nextMultiple;
+        
+    // }
 
 $fptr = fopen(getenv("OUTPUT_PATH"), "w");
 

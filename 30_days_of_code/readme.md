@@ -13,6 +13,6 @@ You will need to use the same (or similar) syntax to read input and write output
 | 5 | Loops | `score=30` | :heavy_check_mark: | | |
 | 4 | Class vs Instance | `score=30` | :heavy_check_mark: | | |
 | 3 | Conditional Statements | `score=30` | :heavy_check_mark: | | |
-| 2 | Operators | `sore=30` | :heavy_check_mark: | | |
+| 2 | Operators | `score=30` | :heavy_check_mark: | | |
 | 1 | Data Types | `score=30` | :heavy_check_mark: | | |
 | 0 | Hello, World | `score=30` | :heavy_check_mark: | | |

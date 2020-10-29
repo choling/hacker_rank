@@ -42,23 +42,23 @@ class Student extends person {
         $average = array_sum($this->testScores) / count($this->testScores); 
         
         switch(true) {
-            case ($average >= 90 && $average <= 100):
-                $average = "O";
+            case ($average < 40):
+                $average = "T";
                 break;
-            case ($average >=80 && $average < 90):
-                $average =  "E";
-                break;
-            case ($average >= 70 && $average < 80):
-                $average =  "A";
-                break;
-            case ($average >= 55 && $average < 70):
-                $average =  "P";
-                break;
-            case ($average >= 40 && $average < 55):
+            case ($average < 55):
                 $average =  "D";
                 break;
-            case ($average < 40):
-                $average =  "T";
+            case ($average < 70):
+                $average =  "P";
+                break;
+            case ($average < 80):
+                $average =  "A";
+                break;
+            case ($average < 90):
+                $average =  "E";
+                break;
+            case ($average <= 100):
+                $average =  "O";
                 break;
         }
         return $average;

@@ -4,7 +4,8 @@ To practice `PHP` code. `JavaScript` and `Python` will be the next move.
 
 |   | Problem | Points | php | python | JavaScript |
 |---|---|---|---|---|---|
-| 11 | Kangaroo | `10.00` | :heavy_check_mark: | | |
+| 12 | Kangaroo | `10.00` | :heavy_check_mark: | | |
+| 11 | Apple and Orange | `10.00` | :heavy_check_mark: | - [ ] | - [ ] |
 | 10 | Grading Students | `10.00` | :heavy_check_mark: | | |
 | 9 | Time Conversion | `15.00` | :heavy_check_mark: | | |
 | 8 | Birthday-Cake-Candles | `10.00` | :heavy_check_mark: | | |

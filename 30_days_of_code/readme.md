@@ -5,6 +5,7 @@ You will need to use the same (or similar) syntax to read input and write output
 
 | Day | Challange | Score | php | python | JavaScript |
 |---|---|---|---|---|---|
+| 14 | Scope | `score=30` | :heavy_check_mark: | | |
 | 11 | Inheritance | `score=30` | :heavy_check_mark: | | |
 | 10 | Binary Numbers | `score=30` | :heavy_check_mark: | | |
 | 9 | Recursion | `score=30` | :heavy_check_mark: | | |

@@ -5,6 +5,7 @@ You will need to use the same (or similar) syntax to read input and write output
 
 | Day | Challange | Score | php | python | JavaScript |
 |---|---|---|---|---|---|
+| 15 | Linked list | `score=30` | :heavy_check_mark: | | |
 | 14 | Scope | `score=30` | :heavy_check_mark: | | |
 | 13 | Abstract Classes | `score=30` | :heavy_check_mark: | | |
 | 12 | Inheritance | `score=30` | :heavy_check_mark: | | |

@@ -5,6 +5,7 @@ You will need to use the same (or similar) syntax to read input and write output
 
 | Day | Challange | Score | php | python | JavaScript |
 |---|---|---|---|---|---|
+| 17 | More Exceptions | `score=30` | :heavy_check_mark: | | |
 | 16 | String to Integer | `score=30` | :heavy_check_mark: | | |
 | 15 | Linked list | `score=30` | :heavy_check_mark: | | |
 | 14 | Scope | `score=30` | :heavy_check_mark: | | |

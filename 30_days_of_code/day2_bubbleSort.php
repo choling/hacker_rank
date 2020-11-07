@@ -23,13 +23,13 @@ for ($i = 0; $i < count($a); $i++) {
 
     $totalSwap += $numberSwap;
 
-    echo "Array is sorted in ". $totalSwap." swaps.\n";
-    echo "First Element: ". $a[0]. "\n";
-    echo "Last Element: ". end($a). "\n";
-
     if ($numberSwap == 0) {
     break;
     }
 }
+
+echo "Array is sorted in ". $totalSwap." swaps.\n";
+echo "First Element: ". $a[0]. "\n";
+echo "Last Element: ". end($a). "\n";
 
 ?>

@@ -5,6 +5,7 @@ You will need to use the same (or similar) syntax to read input and write output
 
 | Day | Challange | Score | php | python | JavaScript |
 |---|---|---|---|---|---|
+| 23 | BST Level Order Traversal | `score=30` | :heavy_check_mark: | | |
 | 21 | Generics in Swift 😅 | `score=30` | | | |
 | 20 | Bubble Sort | `score=30` | :heavy_check_mark: | | |
 | 14 | Scope | `score=30` | :heavy_check_mark: | | |

@@ -6,7 +6,10 @@ You will need to use the same (or similar) syntax to read input and write output
 | Day | Challange | Score | php | python | JavaScript |
 |---|---|---|---|---|---|
 | 24 | More Linked Lists | `score=30` | :heavy_check_mark: | | |
+| 23 | BST Level Order Traversal | `score=30` | :heavy_check_mark: | | |
 | 22 | Binary Search | `score=30` | :heavy_check_mark: | | |
+| 21 | Generics in Swift 😅 | `score=30` | | | |
+| 20 | Bubble Sort | `score=30` | :heavy_check_mark: | | |
 | 19 | Interfaces | `score=30` | :heavy_check_mark: | | |
 | 18 | Queues and Stacks | `score=30` | :heavy_check_mark: | | |
 | 17 | More Exceptions | `score=30` | :heavy_check_mark: | | |
